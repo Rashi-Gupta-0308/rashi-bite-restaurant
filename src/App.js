@@ -16,6 +16,7 @@ function App() {
       <Delivery/>
       <TopPicks/>
       <Meal/>
+      <Categories/>
       <NewsLetter/>
     <Footer/>
     </div>
